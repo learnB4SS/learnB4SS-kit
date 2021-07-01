@@ -54,7 +54,7 @@ You might be asked to update existing packages. If so, type your answer in the R
 Now, install the learnB4SS package with:
 
 ```{r install}
-remotes::install_github("learnB4SS/learnB4SS")
+remotes::install_github("learnB4SS/learnB4SS", build_vignettes = TRUE)
 ```
 
 You might be asked to update existing packages. If so, type your answer in the RStudio console.

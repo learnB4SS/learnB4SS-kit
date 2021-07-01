@@ -59,7 +59,7 @@ in the RStudio console.
 Now, install the learnB4SS package with:
 
 ``` r
-remotes::install_github("learnB4SS/learnB4SS")
+remotes::install_github("learnB4SS/learnB4SS", build_vignettes = TRUE)
 ```
 
 You might be asked to update existing packages. If so, type your answer
