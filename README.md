@@ -12,6 +12,15 @@ For more info on the workshop, check out the workshop’s
 [website](https://learnb4ss.github.io) and the [learning
 materials](https://learnb4ss.github.io/learnB4SS/index.html).
 
+**NOTE**: This kit is just a convenient way of setting up an RStudio
+project that you can use during the workshop. If you are comfortable
+with RStudio, you can choose to set up your own RStudio project instead
+of downloading this kit. If you choose not to use the Starter Kit, you
+can just follow the [installation instructions for the learnB4SS
+package](https://learnb4ss.github.io/learnB4SS/articles/install-learnb4ss.html).
+Note that the learnB4SS package and materials are best used from
+RStudio.
+
 ## Prerequisite
 
 It is essential that you went through the installation of brms and its
